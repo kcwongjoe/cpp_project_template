@@ -3,6 +3,17 @@
 ![Compiler](https://img.shields.io/badge/MSVC-16%202019-lightgrey)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+# How to use this template
+
+1. Rename *project_name* in **CMakeLists.txt** and the folder inside **include**
+
+2. Run
+   ```
+   git submodule add https://github.com/kcwongjoe/doxygen_theme_flat_design docs/theme
+   ```
+
+3. Delete this section after finished.
+
 # Project Title
 
 This project was tested on Window 10 in Visual studio 2019 (16.7.7) compiler.
