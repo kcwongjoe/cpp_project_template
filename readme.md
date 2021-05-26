@@ -14,11 +14,26 @@
 
 3. Delete this section after finished.
 
-# Project Title
+# Your Project Title
+
+Descible your project.
+
+### Features
+* feature 1
+* feature 2
+* feature 3
 
 This project was tested on Window 10 in Visual studio 2019 (16.7.7) compiler.
 
-# Requiements
+## Usage
+
+```cpp
+some code......
+```
+
+For more details, please see [example code](./examples) and [Documentation](http://yourdocumentlink.com)
+
+## Requiements
 
 * Window 10
 
@@ -30,13 +45,13 @@ This project was tested on Window 10 in Visual studio 2019 (16.7.7) compiler.
 
     https://cmake.org/download/
 
-# Build solution
+## Build solution
 
 Run buildvs.bat in Solution folder.
 
 Type ```build x86``` or ```build x64```
 
-# Run Test
+## Run Test
 
 ### Run in CTest
 Run runtest.bat in Solution folder
